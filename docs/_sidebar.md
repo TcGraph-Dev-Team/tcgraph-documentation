@@ -10,6 +10,7 @@
 
 - Frontend (HMI)
 
+    - [Creating Nodes](Frontend/creating-front-end-nodes)
     - [Widgets](Frontend/widgets.md)
 
     - Classes
